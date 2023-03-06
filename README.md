@@ -1,2 +1,2 @@
-# -susanlopes.github.io
+# susanlopes.github.io
 Estudante do Comeia Academy

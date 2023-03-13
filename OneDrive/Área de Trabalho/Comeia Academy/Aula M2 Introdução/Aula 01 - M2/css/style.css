@@ -28,13 +28,15 @@ nav ul {
 nav ul li {
     display: inline;
     margin: 50px;
+    padding: 50px;
 }
 
 nav ul li a {
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
-    color: #000000
+    color: #000000;
+    padding: 50px;
 }
 
 section {
@@ -45,6 +47,7 @@ section {
     background-color: #9A9CA0;
 
 }
+
 footer {
     padding: 10px;
 }
@@ -57,7 +60,7 @@ footer {
 
 .button:hover {
     cursor: pointer;
-    color: #A9A8A8;
+    color: #000000;
     background-color: #9A9CA0;
 }
 
